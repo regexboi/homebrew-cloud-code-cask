@@ -20,3 +20,4 @@ brew install --cask regexboi/cloud-code-cask/cloud-code
 - Current release: `0.1.0`
 - Current build: Apple Silicon (`arm64`) only
 - The app is not notarized yet, so macOS may require an extra approval step on first launch
+- Public repo: `https://github.com/regexboi/homebrew-cloud-code-cask`
